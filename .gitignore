@@ -1,3 +1,6 @@
 .git/
 .idea/
 data/
+code.py
+kaggle_output.csv
+
